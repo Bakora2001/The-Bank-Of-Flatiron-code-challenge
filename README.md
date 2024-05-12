@@ -1,7 +1,7 @@
 # SA.01:WK1: Code Challenge
 
 # Live Link
-[https://github.com/Bakora2001/The-Bank-Of-Flatiron-code-challenge/]
+[https://the-bank-of-flatiron-code-challenge.vercel.app/]
 
 ### Installation instruction
 ```
